@@ -48,7 +48,7 @@ example:
 flutter build run -t lib/main_prod.dart
 ```
 
-##4 Directory Structure
+## 5. Directory Structure
 
 ```
 lib/
@@ -113,12 +113,12 @@ lib/
 ├── main.dart
 ```
 
-## 5. Usage
+## 6. Usage
 
 - Use the `lib/domain/entities` directory to define your data models.
 - Use the `lib/data/repositories` directory for data access and repository patterns.
 - Use the `lib/presentation` directory for UI components and screens.
 - Use the `lib/core` directory for core utilities and configurations.
 
-## 6. Contributing
+## 7. Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any improvements or bug fixes.
